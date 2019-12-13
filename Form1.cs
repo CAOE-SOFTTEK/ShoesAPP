@@ -32,6 +32,7 @@ namespace ShoesApp
                 row.Cells.Add(new DataGridViewTextBoxCell { Value = item.Observations });
                 row.Cells.Add(new DataGridViewTextBoxCell { Value = item.PriceDistributor });
                 row.Cells.Add(new DataGridViewTextBoxCell { Value = item.PriceClient });
+  
                 dataGridView1.Rows.Add(row);
 
             }
@@ -40,6 +41,13 @@ namespace ShoesApp
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Insertar frm = new Insertar();
+
+            frm.Show();
         }
     }
 }

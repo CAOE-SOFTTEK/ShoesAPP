@@ -22,4 +22,4 @@ C:\Users\Curso\source\repos\ShoesApp\ShoesApp\bin\Debug\EntityFramework.SqlServe
 C:\Users\Curso\source\repos\ShoesApp\ShoesApp\bin\Debug\Data.pdb
 C:\Users\Curso\source\repos\ShoesApp\ShoesApp\bin\Debug\Data.dll.config
 C:\Users\Curso\source\repos\ShoesApp\ShoesApp\obj\Debug\ShoesApp.csproj.CopyComplete
-C:\Users\Curso\source\repos\ShoesApp\ShoesApp\obj\Debug\ShoesApp.Edicion.resources
+C:\Users\Curso\source\repos\ShoesApp\ShoesApp\obj\Debug\ShoesApp.Insertar.resources
